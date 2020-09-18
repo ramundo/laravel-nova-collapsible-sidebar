@@ -29,7 +29,7 @@
     "require": {
         "php": "^7.1",
         "laravel/framework": "^8.0",
-        "laravel/nova": "^2.0"
+        "laravel/nova": "^3.0"
     },
     "require-dev": {
         "roave/security-advisories": "dev-master"
