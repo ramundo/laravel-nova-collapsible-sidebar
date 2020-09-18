@@ -1,5 +1,5 @@
 {
-    "name": "pos-lifestyle/laravel-nova-collapsible-sidebar",
+    "name": "ramundo/laravel-nova-collapsible-sidebar",
     "description": "A Laravel Nova collapsible sidebar.",
     "keywords": [
         "laravel",
@@ -18,7 +18,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/pos-lifestyle/laravel-nova-collapsible-sidebar/issues"
+        "issues": "https://github.com/ramundo/laravel-nova-collapsible-sidebar/issues"
     },
     "repositories": [
         {
